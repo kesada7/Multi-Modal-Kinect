@@ -1,0 +1,25 @@
+C:\Users\PCOFME\Desktop\Unity Tempo\RecoCSharp\RecoServeur\bin\x64\Release\RecoServeur.exe
+C:\Users\PCOFME\Desktop\Unity Tempo\RecoCSharp\RecoServeur\bin\x64\Release\RecoServeur.pdb
+C:\Users\PCOFME\Desktop\Unity Tempo\RecoCSharp\RecoServeur\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\PCOFME\Desktop\Unity Tempo\RecoCSharp\RecoServeur\obj\x64\Release\RecoServeur.exe
+C:\Users\PCOFME\Desktop\Unity Tempo\RecoCSharp\RecoServeur\obj\x64\Release\RecoServeur.pdb
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\RecoServeur.exe
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\RecoServeur.pdb
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\mscorlib.dll
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\sortkey.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\sorttbls.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\big5.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\bopomofo.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\ksc.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\prc.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\prcp.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\xjis.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\normidna.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\normnfc.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\normnfd.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\normnfkc.nlp
+U:\RecoServeur_project\RecoServeur\bin\x64\Release\normnfkd.nlp
+U:\RecoServeur_project\RecoServeur\obj\x64\Release\RecoServeur.csproj.CoreCompileInputs.cache
+U:\RecoServeur_project\RecoServeur\obj\x64\Release\RecoServeur.exe
+U:\RecoServeur_project\RecoServeur\obj\x64\Release\RecoServeur.pdb
+U:\RecoServeur_project\RecoServeur\obj\x64\Release\RecoServeur.csprojResolveAssemblyReference.cache
